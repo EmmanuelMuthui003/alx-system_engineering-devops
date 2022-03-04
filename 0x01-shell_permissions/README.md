@@ -1,1 +1,1 @@
-This directory contains shell Permissions
+This project is about shell permissions
